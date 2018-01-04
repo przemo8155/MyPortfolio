@@ -1,7 +1,7 @@
 <?php
 // Variables
 
-$my_email = "admin@freethemeszone.com"; //change with your email address
+$my_email = "przemo8155@wp.pl"; //change with your email address
 
 $name = trim($_POST['name']);
 $email = trim($_POST['email']);
